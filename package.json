@@ -9,6 +9,9 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/node": "^9.3.0",
+    "@sentry/astro": "^9.34.0",
+    "@sentry/profiling-node": "^9.35.0",
     "astro": "^5.11.0"
   }
 }
